@@ -2,6 +2,7 @@
 
 - 🔭 Sou formado em Análise e Desenvolvimento de Sistemas - Unicesumar
 - 🌱 Estou aprendendo JavaScript e Java para me tornar um desenvolvedor Full Stack
+- 🎒 Atualmente estudando na EBAC - Profissão Desenvolvedor Full Stack Java
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonvsantos&show_icons=true&theme=dark" />
