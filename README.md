@@ -5,11 +5,11 @@
 - 🎒 Atualmente estudando na EBAC - Profissão Desenvolvedor Full Stack Java
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonvsantos&show_icons=true&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=andersonvsantos&show_icons=true&theme=dark" />
 </a>
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonvsantos&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonvsantos&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
 <div style="display: inline_block"><br>
