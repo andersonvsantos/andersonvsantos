@@ -1,8 +1,8 @@
 # <Hello World/>
 
-- 🔭 **Desenvolvedor Full Stack** focado em .NET (C#), Node.js, React e Java[cite: 1]
-- 🎓 Cursando **Engenharia de Software** na Unicesumar[cite: 1]
-- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e Pós-Graduado em **Desenvolvimento Java**[cite: 1]
+- 🔭 **Desenvolvedor Full Stack** focado em .NET (C#), Node.js, React e Java
+- 🎓 Cursando **Engenharia de Software** na Unicesumar
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e Pós-Graduado em **Desenvolvimento Java**
 
 ---
 
@@ -22,13 +22,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonvsantos&theme=dracula&animation=fade" width="100%" alt="Linguagens Mais Usadas" />
-    </td>
-    <td width="25%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andersonvsantos&theme=dracula&animation=fade" width="100%" alt="Estatísticas do GitHub" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonvsantos&theme=dracula&animation=fade" alt="Estatísticas" />
+  <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andersonvsantos&theme=dracula&animation=fade" alt="Linguagens" />
+</p>
