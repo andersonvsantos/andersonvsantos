@@ -24,11 +24,11 @@
 
 <table border="0">
   <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andersonvsantos&theme=dracula&animation=fade" width="100%" alt="Estatísticas do GitHub" />
-    </td>
-    <td width="50%">
+    <td width="75%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonvsantos&theme=dracula&animation=fade" width="100%" alt="Linguagens Mais Usadas" />
+    </td>
+    <td width="25%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andersonvsantos&theme=dracula&animation=fade" width="100%" alt="Estatísticas do GitHub" />
     </td>
   </tr>
 </table>
