@@ -39,6 +39,6 @@
 ### 📊 Estatísticas do GitHub / GitHub Stats
 
 <p align="center">
-  <img height="145" src="https://github-readme-stats.vercel.app/api?username=andersonvsantos&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonvsantos&layout=compact&langs_count=7&theme=dark&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonvsantos&theme=dracula&animation=fade" alt="Estatísticas do GitHub" />
+  <img height="145" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andersonvsantos&theme=dracula&animation=fade" alt="Linguagens Mais Usadas" />
 </p>
