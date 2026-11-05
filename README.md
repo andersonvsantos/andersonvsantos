@@ -25,10 +25,10 @@
 <table border="0">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=andersonvsantos&show_icons=true&theme=dark&hide_border=true" width="100%" alt="Estatísticas do GitHub" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andersonvsantos&theme=dracula&animation=fade" width="100%" alt="Estatísticas do GitHub" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonvsantos&layout=compact&langs_count=8&theme=dark&hide_border=true" width="100%" alt="Linguagens Mais Usadas" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andersonvsantos&theme=dracula&animation=fade" width="100%" alt="Linguagens Mais Usadas" />
     </td>
   </tr>
 </table>
