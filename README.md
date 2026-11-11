@@ -9,7 +9,7 @@
 - 🔭 **Estagiário em Desenvolvimento Full Stack** na SynerGroup, atuando com .NET (C#), Node.js e automações
 - 🎓 Cursando **Engenharia de Software** na Unicesumar
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** e Pós-Graduado em **Desenvolvimento Java**
-- ⚡ Focado no ecossistema C#, .NET, Java, JavaScript/TypeScript, React e PostgreSQL
+- ⚡ Focado no ecossistema C#, .NET, Java, JavaScript/TypeScript, React, PostgreSQL e SQL Server
 
 ---
 
@@ -18,7 +18,7 @@
 - 🔭 **Full Stack Developer Intern** at SynerGroup, working with .NET (C#), Node.js, and automation
 - 🎓 Currently pursuing a Degree in **Software Engineering**
 - 🎓 Graduated in **Systems Analysis and Development** & Post-Graduated in **Java Development**
-- ⚡ Focused on C#, .NET, Java, JavaScript/TypeScript, React, and PostgreSQL
+- ⚡ Focused on C#, .NET, Java, JavaScript/TypeScript, React, PostgreSQL and SQL Server
 
 ---
 
